@@ -1,11 +1,11 @@
 # 📊 Marketing Campaign Performance Analysis
 
-## 🔍 Overview
+## Overview
 This project analyzes multi-channel marketing campaign data to evaluate performance, identify inefficiencies in budget allocation, and improve overall return on investment (ROI). The analysis focuses on uncovering the root causes of losses and providing actionable business recommendations.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze channel-wise marketing performance  
 - Identify loss-making campaigns and their impact  
 - Evaluate ROI distribution and performance variation  
@@ -14,21 +14,21 @@ This project analyzes multi-channel marketing campaign data to evaluate performa
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - SQL (MySQL) – Data extraction and analysis  
 - Power BI – Data visualization and dashboarding  
 - Excel – Data handling and preprocessing  
 
 ---
 
-## 📊 Dataset
+## Dataset
 - Synthetic dataset simulating real-world marketing campaigns  
 - ~12,000 records  
 - Includes metrics such as impressions, clicks, conversions, cost, revenue, ROI  
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - **Google Search inefficiency:**  
   Consumed ~61% of total budget but contributed only ~35% of revenue, resulting in significant negative ROI  
@@ -47,13 +47,13 @@ This project analyzes multi-channel marketing campaign data to evaluate performa
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 ![Dashboard](images/dashboard.png)
 
 ---
 
-## 📌 Key Visuals
+## Key Visuals
 - KPI Cards: Revenue, Cost, ROI, Conversion Rate  
 - Channel-wise Revenue vs Cost Comparison  
 - Channel Efficiency Gap (Revenue % - Cost %)  
@@ -62,7 +62,7 @@ This project analyzes multi-channel marketing campaign data to evaluate performa
 
 ---
 
-## 🚀 Business Recommendations
+## Business Recommendations
 - Reallocate budget from underperforming channels (e.g., Google Search) to more efficient channels  
 - Optimize keyword targeting and bidding strategies in high-cost channels  
 - Leverage successful strategies from high-ROI channels like Email  
@@ -70,12 +70,12 @@ This project analyzes multi-channel marketing campaign data to evaluate performa
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 The analysis reveals that overall losses are primarily driven by inefficient budget allocation rather than poor conversion performance. By optimizing spend distribution and improving campaign-level strategies, marketing efficiency and ROI can be significantly improved.
 
 ---
 
-## 👤 Author
+## Author
 **Umesh Harsana**  
-- B.Tech, IIT(BHU) Varanasi  
-- Aspiring Data Analyst
+B.Tech, IIT(BHU) Varanasi  
+Aspiring Data Analyst
